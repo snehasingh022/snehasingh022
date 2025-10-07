@@ -57,9 +57,9 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehasingh022/snehasingh022/main/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehasingh022/snehasingh022/main/dist/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/snehasingh022/snehasingh022/main/dist/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehasingh022/snehasingh022/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehasingh022/snehasingh022/blob/output/github-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/snehasingh022/snehasingh022/blob/output/github-snake-dark.svg">
 </picture>
 
 </p>
