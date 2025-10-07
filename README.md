@@ -1,59 +1,54 @@
-<h1 align="center">Hi 👋, I'm Sneha Singh</h1>
+<h1 align="center">✨ Hi, I'm <span style="color:#f06292">Sneha Singh</span> 👋</h1>
 
-<h3 align="center">A passionate Full Stack Developer & AI Explorer</h3>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI Explorer | 🚀 Tech Innovator</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehasingh022&label=Profile%20views&color=0e75b6&style=flat" alt="snehasingh022" />
+  <img src="https://komarev.com/ghpvc/?username=snehasingh022&label=Profile%20Views&color=ff69b4&style=flat-square" alt="snehasingh022" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=snehasingh022&theme=algolia&margin-w=10&margin-h=10" alt="snehasingh022" />
+    <img src="https://github-profile-trophy.vercel.app/?username=snehasingh022&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="snehasingh022" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 🌐 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/sneha-singh-269645287/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:snehasingh842003@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="email" height="30" width="40" />
+  <a href="mailto:snehasingh842003@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+### ⚙️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,django,python,typescript,javascript,html,css,tailwind,bootstrap,mysql,postgres,git,github,heroku,tensorflow,pytorch&perline=9" />
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
+### 📊 GitHub Insights
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehasingh022&show_icons=true&locale=en&layout=compact&theme=radical" alt="snehasingh022" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehasingh022&show_icons=true&locale=en&layout=compact&theme=radical" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=snehasingh022&show_icons=true&locale=en&theme=radical" height="150" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehasingh022&show_icons=true&locale=en&theme=radical" alt="snehasingh022" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehasingh022&theme=radical" height="150" alt="GitHub Streak"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehasingh022&theme=radical" alt="snehasingh022" /></p>
+---
+
+### 🐍 Contribution Snake
 
 <p align="center">
 <picture>
@@ -62,29 +57,42 @@
   <img alt="snake animation" src="https://raw.githubusercontent.com/snehasingh022/snehasingh022/output/github-snake.svg">
 </picture>
 </p>
+
 ---
 
-### 📁 Featured Projects
+### 🚀 Featured Projects
 
-- **Mock AI Interviewer** — Next.js, TypeScript, OpenAI Voice SDK, MongoDB  
-- **E-Commerce Platform + Admin Panel** — React, Node.js, Express, MongoDB, Stripe  
-- **Parking Monitoring System** — YOLOv8, Flask, OpenCV, real-time analytics  
-- **StudyBuddy** — AI-powered EdTech SaaS platform built with React + Node.js  
+🔹 **Mock AI Interviewer** — *Next.js, TypeScript, OpenAI Voice SDK, MongoDB*  
+AI-powered mock interview web app with real-time voice interaction.
+
+🔹 **E-Commerce Platform + Admin Panel** — *React, Node.js, Express, MongoDB, Stripe*  
+Dynamic product management, checkout flow, and admin dashboard.
+
+🔹 **Parking Monitoring System** — *YOLOv8, Flask, OpenCV*  
+Real-time vehicle detection & parking analytics dashboard.
+
+🔹 **StudyBuddy** — *AI EdTech SaaS with React + Node.js*  
+Personalized learning assistant powered by GPT models.
 
 ---
 
 ### 🏅 Achievements & Highlights
 
-- **Full Stack Web Support Intern – Wecofy Technotides (Noida)**  
-  Built responsive Next.js + Firebase applications for production.
-- **Peer Mentor – IIIT Bhagalpur Bootcamp**  
-  Guided 30+ juniors in MERN and Django stack learning.
-- **Core Member – Tarang Sargam (Music Club)**  
-  Managed and performed in campus cultural events.
-- **LeetCode:** 500+ problems solved, rating ~1550  
-- **CodeChef:** 3★ rated competitive programmer  
+🏢 **Full Stack Web Support Intern – Wecofy Technotides (Noida)**  
+Built scalable Next.js + Firebase web applications for clients.  
+
+👩‍🏫 **Peer Mentor – IIIT Bhagalpur Bootcamp**  
+Guided 30+ juniors in MERN and Django full-stack development.  
+
+🎵 **Core Member – Tarang Sargam (Music Club)**  
+Organized and performed in institute-level cultural events.  
+
+💡 **Competitive Programming:**  
+- 🧩 LeetCode: 500+ problems solved, ~1550 rating  
+- ⚡ CodeChef: 3★ rated  
 
 ---
 
-<p align="center">💬 Always exploring AI + Web to build impactful, intelligent systems.</p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning+and+building+cool+stuff!;Exploring+AI+%26+Web+Development!;Turning+ideas+into+reality+💡&center=true&width=500&color=ff69b4">
+</p>
