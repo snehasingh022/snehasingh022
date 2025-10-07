@@ -68,28 +68,13 @@ AI-powered mock interview web app with real-time voice interaction.
 🔹 **E-Commerce Platform + Admin Panel** — *React, Node.js, Express, MongoDB, Stripe*  
 Dynamic product management, checkout flow, and admin dashboard.
 
-🔹 **Parking Monitoring System** — *YOLOv8, Flask, OpenCV*  
-Real-time vehicle detection & parking analytics dashboard.
-
-🔹 **StudyBuddy** — *AI EdTech SaaS with React + Node.js*  
-Personalized learning assistant powered by GPT models.
-
 ---
 
 ### 🏅 Achievements & Highlights
 
 🏢 **Full Stack Web Support Intern – Wecofy Technotides (Noida)**  
 Built scalable Next.js + Firebase web applications for clients.  
-
-👩‍🏫 **Peer Mentor – IIIT Bhagalpur Bootcamp**  
-Guided 30+ juniors in MERN and Django full-stack development.  
-
-🎵 **Core Member – Tarang Sargam (Music Club)**  
-Organized and performed in institute-level cultural events.  
-
-💡 **Competitive Programming:**  
-- 🧩 LeetCode: 500+ problems solved, ~1550 rating  
-- ⚡ CodeChef: 3★ rated  
+ 
 
 ---
 
